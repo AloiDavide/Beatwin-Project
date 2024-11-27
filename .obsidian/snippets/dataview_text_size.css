@@ -1,0 +1,13 @@
+
+.cards .block-language-dataview {
+	font-size: 1em;
+	--table-text-size: 1.5em;
+	/*--table-text-color: red;*/
+}
+.block-language-dataviewjs {
+	font-size: 1em;
+}
+
+/* .cards {
+  text-align: center;
+} */

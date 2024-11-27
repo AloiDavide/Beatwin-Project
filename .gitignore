@@ -1,0 +1,6 @@
+.idea/
+.stfolder/
+.stversions/
+.trash/
+*syncthing*.tmp
+*workspace*.json

@@ -1,0 +1,14 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#d37012",
+  "enabledCssSnippets": [
+    "canvas",
+    "Minimal Theme cards",
+    "media_notes",
+    "dataview_text_size",
+    "image adjustment",
+    "S - Callouts",
+    "red truth",
+    "S - Checkboxes"
+  ]
+}

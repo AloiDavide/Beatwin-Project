@@ -1,0 +1,90 @@
+.center-headings .cm-header-1, .center-headings .cm-header-2, .center-headings :is(h1, h2, h3, h4, h5, h6){
+	text-align: center !important;
+	display: block;
+
+}
+
+.center-images img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.center-title .inline-title{
+	text-align: center;
+}
+
+.center-headings .mb-view input{
+	max-width: 3rem;
+}
+
+.manga-note .mb-progress-bar-input{
+	font-weight: bold;
+	font-size: 1.3em;
+	-webkit-text-stroke-width: 1px;
+  	-webkit-text-stroke-color: black;
+}
+
+.manga-note .table-view-th{
+	text-align: center;
+}
+
+.manga-note .metadata-menu-dv-field-container > span{
+	margin: auto;
+}
+
+
+/*Whole page body width for both read and preview mode*/
+.manga-note .cm-contentContainer, .manga-note .markdown-preview-section{
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;	
+}
+
+/*Scale width of meta bind views*/
+.manga-note .mb-view{
+	margin: auto;
+	max-width: 70%;
+}
+
+.manga-note .score-bar .mb-progress-bar-input{
+	margin: auto;
+	max-width: 50%;
+}
+
+
+
+
+
+
+
+
+/*This changes the alignment and text size in the dataviews in the game notes*/
+.game thead th {
+	text-align: center;
+}
+.game tbody td:nth-child(1) {
+	text-align: center;
+	font-size: 1.3em;
+}
+.game tbody td:nth-child(n+2) {
+	font-size: 1.8em;
+	text-align: center;
+}
+
+
+.games-interface thead th {
+	text-align: center;
+}
+.games-interface tbody td:nth-child(1) {
+	font-size: 1.0em;
+}
+.games-interface tbody td:nth-child(n+3):nth-child(-n+5) {
+	font-size: 1.0em;
+}
+.games-interface tbody td:nth-child(n) {
+	text-align: center;
+}
+
+
